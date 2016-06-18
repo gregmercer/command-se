@@ -1,9 +1,10 @@
 {
   "name": "command-se",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "index",
   "dependencies": {
-    "lodash": "^3.8.0"
+    "lodash": "^3.8.0",
+    "xml2js": "^0.4.16"
   },
   "repository": {
     "type": "git",
