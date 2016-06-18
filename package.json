@@ -1,6 +1,6 @@
 {
   "name": "command-se",
-  "version": "1.0.19",
+  "version": "1.0.20",
   "main": "index",
   "dependencies": {
     "lodash": "^3.8.0",
