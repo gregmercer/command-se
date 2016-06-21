@@ -1,6 +1,6 @@
 {
   "name": "command-se",
-  "version": "1.0.65",
+  "version": "1.0.66",
   "main": "index",
   "dependencies": {
     "dateformat": "^1.0.12",
